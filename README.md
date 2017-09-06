@@ -180,3 +180,4 @@ The following is a brief explanation of each available command.
 ## Copyright
 
 See [LICENSE](LICENSE)
+
