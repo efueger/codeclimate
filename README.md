@@ -2,6 +2,8 @@
 
 Add line
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/110f3d81c60a79f3e4fa/maintainability)](https://codeclimate.com/github/efueger/codeclimate/maintainability)
+
 [![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
 
 ## Overview
